@@ -18,13 +18,6 @@
     color: white;
 }
 
-.btn--add:hover {
-    cursor: pointer;
-    transition: .3s;
-    background-color: green;
-    text-decoration: none;
-}
-
 
 /*button de remover */
 
@@ -45,14 +38,6 @@
     margin: .7em;
 }
 
-.btn--error:hover {
-    transition: .3s;
-    background-color: rgba(80%, 0%, 0%, 100%);
-    text-decoration: none;
-    color: #eee;
-    cursor: pointer;
-}
-
 
 
 .btn--yes {
@@ -70,13 +55,6 @@
     color: #eee;
 }
 
-.btn--yes:hover {
-    transition: .3s;
-    background-color: rgba(0%, 0%, 70%, 100%);
-    text-decoration: none;
-    color: #eee;
-    cursor: pointer;
-}
 
 .btn--info {
     text-align: center;
@@ -90,12 +68,6 @@
     cursor: pointer;
     text-decoration: none;
     display: inline-block;
-}
-
-.btn--info,
-* {
-    padding: .6em .4em;
-    font-size: 15px;
 }
 
 
@@ -121,13 +93,6 @@
       margin: .7em;
   }
 
-  .btn--pink:hover {
-      transition: .3s;
-      background-color:rgba(989, 80, 152, 0.880);
-      text-decoration: none;
-      color: #eee;
-      cursor: pointer;
-  }
 
 
 
@@ -149,14 +114,6 @@
       margin: .7em;
   }
 
-  .btn--white:hover {
-      transition: .3s;
-      background-color: #ccc;
-      text-decoration: none;
-      color: #333;
-      cursor: pointer;
-  }
-
 /* btn red */
   .btn--red {
       border-radius: 4px;
@@ -173,14 +130,6 @@
       transition: .3s;
       color: #eee;
       margin: .7em;
-  }
-
-  .btn--red:hover {
-      transition: .3s;
-      background-color: rgba(212, 36, 58, 0.804);
-      text-decoration: none;
-      color: #eee;
-      cursor: pointer;
   }
 
 
@@ -200,14 +149,6 @@
     transition: .3s;
     color: #eee;
     margin: .7em;
-}
-
-.btn--blue:hover {
-    transition: .3s;
-background-color: rgb(90, 113, 319);
-    text-decoration: none;
-    color: #eee;
-    cursor: pointer;
 }
 
 
@@ -230,15 +171,6 @@ background-color: rgb(90, 113, 319);
     margin: .7em;
 }
 
-.btn--green:hover {
-    transition: .3s;
-       background-color: rgba(0%, 80%, 0%, 85%);
-    text-decoration: none;
-    color: #eee;
-    cursor: pointer;
-}
-
-/* btn orange */
 .btn--orange {
     border-radius: 4px;
     padding: .4em .5em;
@@ -256,13 +188,6 @@ background-color: rgb(90, 113, 319);
     margin: .7em;
 }
 
-.btn--orange:hover {
-    transition: .3s;
-   background-color: rgba(60%, 0%, 0%, 90%);
-    text-decoration: none;
-    color: #eee;
-    cursor: pointer;
-}
 /* btn black */
 .btn--black {
     border-radius: 4px;
@@ -281,13 +206,6 @@ background-color: rgb(90, 113, 319);
     margin: .7em;
 }
 
-.btn--black:hover {
-    transition: .3s;
-       background-color: #333;
-    text-decoration: none;
-    color: #eee;
-    cursor: pointer;
-}
-
+ 
 
 /* end button colors */
